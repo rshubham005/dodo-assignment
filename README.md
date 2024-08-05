@@ -7,9 +7,13 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser or follow the link  first home screen visible is the screen replicated by following figma file  attached with assignment instrctions.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser or follow the link [https://dodo-assignment-rho.vercel.app/] 
+
 
 ### Working of application
+First home screen visible is the screen replicated by following figma file  attached with assignment instrctions.
+
+
 
 
 On the sidebar you will see multiple menu items out of which 3 are working properly namely Overview, Transactions and Developer Tools
