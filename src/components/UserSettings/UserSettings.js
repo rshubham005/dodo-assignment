@@ -1,6 +1,5 @@
 import { TextField } from "@mui/material";
 import React, { useState } from "react";
-import Form from "react-bootstrap/Form";
 function UserSettings() {
   const [formData, setFormData] = useState({
     name: "Shubham",
